@@ -27,8 +27,8 @@ const optionDefinitions = [
 // Configuring the help to be printed
 const sections = [
   {
-    header: "Log Anamoly App",
-    content: "Identifies the Anamolies in the logs"
+    header: "Log Anomaly App",
+    content: "Identifies the Anomalies in the logs"
   },
   {
     header: "Options [ npm start -- <args>  , Eg. npm start -- -l . ]",
@@ -46,7 +46,7 @@ const sections = [
       {
         name: "test",
         typeLabel: "-e",
-        description: "Identfies the Anamolies"
+        description: "Identfies the Anomalies"
       },
       {
         name: "input",

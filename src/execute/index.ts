@@ -71,7 +71,7 @@ export class Execute {
           }
         }
       });
-      console.log(`Anamolies in ${key}`);
+      console.log(`Anomalies in ${key}`);
       console.log("===".repeat(40));
       console.log(threadLines);
       console.log("===".repeat(40));
